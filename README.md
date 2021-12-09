@@ -26,4 +26,7 @@ Pewlett-Hackard is a well established company with thousands of employees. Its l
 # Summary
 From the analysis;
 
-1. roles will need to be filled as the silver tsunami begins to make an impact. 
+1. 41,380 roles will need to be filled as the silver tsunami begins to make an impact. 
+2. There are more than enough retirement-ready employees (41,380) in the departments to mentor the  next generation of Pewlett Hackard employees (1549). 
+
+*using emp_no as the primary key. 
